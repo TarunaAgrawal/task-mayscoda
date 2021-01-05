@@ -10,6 +10,9 @@ digSum(n)=sum(digSum(n))
 
 
 
+
+
+
  
 Program:      int digSum(int n)
               {
@@ -33,7 +36,7 @@ input=548399
 output=2
 explanation= the sum=5+4+8+3+9+9 = 38,
               digSum(x)=3+8=11
-              hence 1+1=  2;
+              hence            1+1=2;
               
               
   soln=
